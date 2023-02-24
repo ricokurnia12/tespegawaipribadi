@@ -1,0 +1,6 @@
+.warnaButton {
+    background-color: white;
+}
+.warnaButton:hover {
+    background-color: gainsboro;
+}
