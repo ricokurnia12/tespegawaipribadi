@@ -11,6 +11,7 @@ const Router = () => {
             <Route path={`/${Directory}`} element={<Blank />} />
             <Route path={`/${Directory}/*`} element={<UserRoute />} />
             <Route path={`/${Directory}/*`} element={<Blank />} />
+            <Route path={`/${Directory}/*`} element={<Blank />} />
         </Routes>
     );
 };
