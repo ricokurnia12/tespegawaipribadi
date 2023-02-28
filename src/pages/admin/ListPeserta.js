@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import MUIDataTable from 'mui-datatables';
 
 import {
@@ -12,32 +12,26 @@ import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
-import './ListPeserta.css';
 
 const ListPeserta = (props) => {
-  const getMuiTheme = () =>
-    createTheme({
-      overrides: {
-        MUIDataTableBodyCell: {
-          root: {
-            backgroundColor: '#FF0000',
-          },
-        },
-        MUIDataTablePagination: {
-          root: {
-            backgroundColor: '#000',
-            color: '#fff',
-          },
-        },
-      },
-    });
+  const [data, setData] = useState([]);
+  useEffect(() => {
+    fetch('http://localhost:5001/datakaryawan')
+      .then((resp) => resp.json())
+      .then((resp) => {
+        console.log(resp);
+        setData(resp);
+      });
+  }, []);
 
   const columns = [
     {
-      name: 'No',
+      name: 'Id',
+      label: 'Nomor',
     },
     {
       name: 'Nama',
+      label: 'Nama',
     },
     {
       name: 'NIK',
@@ -66,21 +60,6 @@ const ListPeserta = (props) => {
     {
       name: 'Penempatan Jabatan Existing',
     },
-  ];
-  const data = [
-    [
-      1,
-      'Rico Kur',
-      545451114,
-      812255466,
-      'coco@gmail.com',
-      'Lorem ipsum',
-      'Kepala Bagian',
-      'Bandung',
-      'Lorem ipsum',
-      'Manajer',
-      'Pusat',
-    ],
   ];
 
   function createData(
@@ -199,14 +178,12 @@ const ListPeserta = (props) => {
   };
 
   return (
-    <MuiThemeProvider theme={this.getMuiTheme()}>
-      <MUIDataTable
-        title={'ACME Employee list'}
-        data={data}
-        columns={columns}
-        options={options}
-      />
-    </MuiThemeProvider>
+    <MUIDataTable
+      title={'ACME Employee list'}
+      data={data}
+      columns={columns}
+      options={options}
+    />
   );
 };
 
