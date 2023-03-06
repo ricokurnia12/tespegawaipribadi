@@ -1,0 +1,1825 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 2,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 3,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 4,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 5,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 6,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 7,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 8,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 9,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 10,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 11,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 12,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 13,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 14,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 15,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 16,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 17,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 18,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 19,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 20,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 21,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 22,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 23,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 24,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 25,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 26,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 27,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 28,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 29,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 30,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 31,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 32,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 33,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 34,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 35,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 36,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 37,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 38,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 39,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 40,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 41,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 42,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 43,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 44,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 45,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 46,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 47,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 48,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 49,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 50,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 51,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 52,
+      "jenis": "Tes Analogi",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "MUSIBAH ; BENCANA",
+      "jawaban": [
+        "Celaka ; terluka",
+        "Sakit ; sehat",
+        "Takut ; berani",
+        "Lentur ; elastis",
+        "Kaku ; baik"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 53,
+      "jenis": "Penalaran Analitis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Suatu keluarga mempunyai empat anak yang bergelar sarjana. A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam perolehan kesarjanaan adalah ...",
+      "jawaban": [
+        "D memperoleh gelar sarjana sebelum C",
+        "A memperoleh gear sarjana sesudah C",
+        "C memperoleh gelar sarjana sebelum D",
+        "A memperoleh gelar sarjana bersamaan dengan D",
+        "B memperoleh gelar sarjana sebelum C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 54,
+      "jenis": "Tes Penalaran Logis",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "Tabungan A lebih banyak daripada tabungan B dan C. Tabungan B lebih banyak daripada tabungan C. Tabungan D lebih banyak daripada jumlah tabungan A, B, dan C.",
+      "jawaban": [
+        "C mempunyai tabungan paling sedikit",
+        "Yang mempunyai tabungan paling banyak adalah A",
+        "Tabungan A lebih banyak daripada tabungan D",
+        "Jumlah tabungan D dan C sama dengan jumlah tabungan A dan B",
+        "Tabungan D merupakan penjumlahan tabungan A, B, dan C"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 55,
+      "jenis": "Tes Aritmatika",
+      "petunjuk": "Soal­soal aritmatika terdiri dari soal­soal hitungan sederhana, konsep aljabar, dan permasalahan aritmatika lainnya. Setiap soal disertai dengan lima pilihan jawaban. Jawablah setiap soal dengan cara memilih satu dari lima jawaban yang ada.",
+      "pertanyaan": "Berapakah nilai dari 4,353 : 0,003",
+      "jawaban": ["1.451", "1.455", "1.465", "1.471", "1.475"]
+    },
+    {
+      "id": 56,
+      "jenis": "Tes Deretan Angka",
+      "petunjuk": "Masing­masing soal terdiri dari suatu deretan angka yang belum selesai. Setiap soal disertai dengan lima pilihan jawaban yang ada di bawahnya. Angka­angka tersebut berderet mengikuti suatu prinsip tertentu. Pilihlah satu jawaban untuk menyelesaikan deretan angka itu, sesuai dengan prinsip yang mendasari.",
+      "pertanyaan": "3 5   8  12  17  23 ...   .....",
+      "jawaban": [
+        "30 dan 37",
+        "29 dan 36",
+        "29 dan 37",
+        "31 dan 39",
+        "30 dan 38"
+      ]
+    },
+    {
+      "id": 57,
+      "jenis": "Tes Sinonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 58,
+      "jenis": "Tes Antonim",
+      "petunjuk": "Masing­masing soal terdiri dari satu kata yang dicetak dengan huruf besar (huruf kapital) diikuti lima kemungkinan jawaban. Pilihlah satu jawaban yang mempunyai arti sama atau paling dekat dengan arti kata yang dicetak dengan huruf kapital.",
+      "pertanyaan": "INISIATIF =",
+      "jawaban": ["norr", "asosiatif", "danu"],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 59,
+      "jenis": "Tes Gambar",
+      "petunjuk": "Masing­masing soal terdiri dari dua kata yang berpasangan diikuti lima kemungkinan jawaban. Pilihlah satu jawaban paling tepat yang mempunyai kesamaan hubungan dengan soal yang diberikan.",
+      "pertanyaan": "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652147/tkd/Group_1000006264_x9jyr5.png",
+      "jawaban": [
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652046/tkd/Group_1000006265_k1bg1s.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652058/tkd/Group_1000006266_qvylxh.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652070/tkd/Group_1000006268_gq1msf.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677656004/tkd/Group_1000006267_3_rwhaci.png"
+      ],
+      "tipe_soal": "teks"
+    },
+    {
+      "id": 60,
+      "jenis": "Tes Gambar",
+      "petunjuk": "Soal di bawah ini terdiri dari pernyataan­pernyataan yang akan mengungkap kemampuan Anda dalam menyimpulkan suatu permasalahan. Setiap soal terdiri dari dua atau lebih pernyataan. Bacalah baik­baik pernyataan itu dan tentukan kesimpulan yang dapat ditarik dari pernyataan itu. Kemudian, pilihlah satu dari lima pilihan jawaban yang ada sebagai kesimpulan dari pernyataan itu.",
+      "pertanyaan": "",
+      "jawaban": [
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652434/tkd/Group_1000006269_rv1qfy.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652427/tkd/Group_1000006270_aqvfon.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652421/tkd/Group_1000006271_gdecsv.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652416/tkd/Group_1000006272_nife1e.png",
+        "https://res.cloudinary.com/dyhbjdod5/image/upload/v1677652411/tkd/Group_1000006273_kypiqe.png"
+      ],
+      "tipe_soal": "teks"
+    }
+  ],
+  "datakaryawan": [
+    {
+      "id": 1,
+      "nama": "Mrs. Hadley Wiegand",
+      "nik": 21321,
+      "handphone": 8787878,
+      "email": "Mrs. Hadley Wiegand@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 2,
+      "nama": "Kiara Runolfsdottir",
+      "nik": 21323,
+      "handphone": 8787877,
+      "email": "Kiara Runolfsdottir@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 3,
+      "nama": "Mayra Friesen",
+      "nik": 21325,
+      "handphone": 8787876,
+      "email": "Mayra Friesen@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 4,
+      "nama": "Phoebe Dare",
+      "nik": 21327,
+      "handphone": 8787875,
+      "email": "Phoebe Dare@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 5,
+      "nama": "Claud Nikolaus",
+      "nik": 21329,
+      "handphone": 8787874,
+      "email": "Claud Nikolaus@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 6,
+      "nama": "Alfonso Mayer",
+      "nik": 21331,
+      "handphone": 8787873,
+      "email": "Alfonso Mayer@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 7,
+      "nama": "Vernon Howe",
+      "nik": 21333,
+      "handphone": 8787872,
+      "email": "Vernon Howe@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 8,
+      "nama": "Rashad Ritchie",
+      "nik": 21335,
+      "handphone": 8787871,
+      "email": "Rashad Ritchie@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 9,
+      "nama": "Rickie Klocko MD",
+      "nik": 21337,
+      "handphone": 8787870,
+      "email": "Rickie Klocko MD@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 10,
+      "nama": "Eden McDermott MD",
+      "nik": 21339,
+      "handphone": 8787869,
+      "email": "Eden McDermott MD@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 11,
+      "nama": "Nella Keebler",
+      "nik": 21341,
+      "handphone": 8787868,
+      "email": "Nella Keebler@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 12,
+      "nama": "Daniela Carter",
+      "nik": 21343,
+      "handphone": 8787867,
+      "email": "Daniela Carter@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 13,
+      "nama": "Mr. Royce Russel",
+      "nik": 21345,
+      "handphone": 8787866,
+      "email": "Mr. Royce Russel@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 14,
+      "nama": "Ms. Kimberly Dietrich",
+      "nik": 21347,
+      "handphone": 8787865,
+      "email": "Ms. Kimberly Dietrich@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 15,
+      "nama": "Hunter Rippin",
+      "nik": 21349,
+      "handphone": 8787864,
+      "email": "Hunter Rippin@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 16,
+      "nama": "Emerald Zulauf",
+      "nik": 21351,
+      "handphone": 8787863,
+      "email": "Emerald Zulauf@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 17,
+      "nama": "Vanessa Gottlieb IV",
+      "nik": 21353,
+      "handphone": 8787862,
+      "email": "Vanessa Gottlieb IV@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 18,
+      "nama": "Ernie Bernier",
+      "nik": 21355,
+      "handphone": 8787861,
+      "email": "Ernie Bernier@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 19,
+      "nama": "Lucienne Bruen",
+      "nik": 21357,
+      "handphone": 8787860,
+      "email": "Lucienne Bruen@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 20,
+      "nama": "Ocie Abbott DDS",
+      "nik": 21359,
+      "handphone": 8787859,
+      "email": "Ocie Abbott DDS@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 21,
+      "nama": "Eric Gusikowski",
+      "nik": 21361,
+      "handphone": 8787858,
+      "email": "Eric Gusikowski@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 22,
+      "nama": "Dr. Fabiola Beer",
+      "nik": 21363,
+      "handphone": 8787857,
+      "email": "Dr. Fabiola Beer@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 23,
+      "nama": "Ms. Enoch Beier",
+      "nik": 21365,
+      "handphone": 8787856,
+      "email": "Ms. Enoch Beier@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 24,
+      "nama": "Elfrieda Shanahan",
+      "nik": 21367,
+      "handphone": 8787855,
+      "email": "Elfrieda Shanahan@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 25,
+      "nama": "Bradford Wehner PhD",
+      "nik": 21369,
+      "handphone": 8787854,
+      "email": "Bradford Wehner PhD@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 26,
+      "nama": "Miss Modesta Sporer",
+      "nik": 21371,
+      "handphone": 8787853,
+      "email": "Miss Modesta Sporer@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 27,
+      "nama": "Berneice Tremblay",
+      "nik": 21373,
+      "handphone": 8787852,
+      "email": "Berneice Tremblay@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 28,
+      "nama": "Lonnie Orn",
+      "nik": 21375,
+      "handphone": 8787851,
+      "email": "Lonnie Orn@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 29,
+      "nama": "Octavia Conroy",
+      "nik": 21377,
+      "handphone": 8787850,
+      "email": "Octavia Conroy@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 30,
+      "nama": "Jadon Smitham",
+      "nik": 21379,
+      "handphone": 8787849,
+      "email": "Jadon Smitham@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 31,
+      "nama": "Ida Sanford",
+      "nik": 21381,
+      "handphone": 8787848,
+      "email": "Ida Sanford@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 32,
+      "nama": "Ms. Lucinda Harber",
+      "nik": 21383,
+      "handphone": 8787847,
+      "email": "Ms. Lucinda Harber@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 33,
+      "nama": "Jaquelin Dickinson",
+      "nik": 21385,
+      "handphone": 8787846,
+      "email": "Jaquelin Dickinson@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 34,
+      "nama": "Burdette Emmerich I",
+      "nik": 21387,
+      "handphone": 8787845,
+      "email": "Burdette Emmerich I@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 35,
+      "nama": "Athena Anderson",
+      "nik": 21389,
+      "handphone": 8787844,
+      "email": "Athena Anderson@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 36,
+      "nama": "Jane Keeling",
+      "nik": 21391,
+      "handphone": 8787843,
+      "email": "Jane Keeling@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 37,
+      "nama": "Doyle Harªann",
+      "nik": 21393,
+      "handphone": 8787842,
+      "email": "Doyle Harªann@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 38,
+      "nama": "Ewald Baumbach",
+      "nik": 21395,
+      "handphone": 8787841,
+      "email": "Ewald Baumbach@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 39,
+      "nama": "Mr. Lia Emard",
+      "nik": 21397,
+      "handphone": 8787840,
+      "email": "Mr. Lia Emard@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 40,
+      "nama": "Bridgette Weber",
+      "nik": 21399,
+      "handphone": 8787839,
+      "email": "Bridgette Weber@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 41,
+      "nama": "Gerda Sanford",
+      "nik": 21401,
+      "handphone": 8787838,
+      "email": "Gerda Sanford@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 42,
+      "nama": "Retha Willms",
+      "nik": 21403,
+      "handphone": 8787837,
+      "email": "Retha Willms@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 43,
+      "nama": "Enrique Homenick",
+      "nik": 21405,
+      "handphone": 8787836,
+      "email": "Enrique Homenick@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 44,
+      "nama": "Zora Labadie",
+      "nik": 21407,
+      "handphone": 8787835,
+      "email": "Zora Labadie@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 45,
+      "nama": "Lester Kiehn MD",
+      "nik": 21409,
+      "handphone": 8787834,
+      "email": "Lester Kiehn MD@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 46,
+      "nama": "Easton Simonis",
+      "nik": 21411,
+      "handphone": 8787833,
+      "email": "Easton Simonis@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    },
+    {
+      "id": 47,
+      "nama": "Jamie Hyatt",
+      "nik": 21413,
+      "handphone": 8787832,
+      "email": "Jamie Hyatt@gmail.com",
+      "proyeksi level jabatan": "kabag",
+      "Proyeksi Jabatan Posisi": "kabag",
+      "Proyeksi Penempatan Jabatan": "jakarta",
+      "Level Jabatan Existing": "kabag",
+      "Jabatan Posisi Existing": "kabag",
+      "Penempatan Jabatan Existing": "jakarta"
+    },
+    {
+      "id": 48,
+      "nama": "Matt Lemke",
+      "nik": 21415,
+      "handphone": 8787831,
+      "email": "Matt Lemke@gmail.com",
+      "proyeksi level jabatan": "ob",
+      "Proyeksi Jabatan Posisi": "ob",
+      "Proyeksi Penempatan Jabatan": "surabaya",
+      "Level Jabatan Existing": "ob",
+      "Jabatan Posisi Existing": "ob",
+      "Penempatan Jabatan Existing": "surabaya"
+    },
+    {
+      "id": 49,
+      "nama": "Gladys Gaylord",
+      "nik": 21417,
+      "handphone": 8787830,
+      "email": "Gladys Gaylord@gmail.com",
+      "proyeksi level jabatan": "manajaer",
+      "Proyeksi Jabatan Posisi": "manajaer",
+      "Proyeksi Penempatan Jabatan": "bandung",
+      "Level Jabatan Existing": "manajaer",
+      "Jabatan Posisi Existing": "manajaer",
+      "Penempatan Jabatan Existing": "bandung"
+    },
+    {
+      "id": 50,
+      "nama": "Ezequiel Barrows II",
+      "nik": 21419,
+      "handphone": 8787829,
+      "email": "Ezequiel Barrows II@gmail.com",
+      "proyeksi level jabatan": "staff",
+      "Proyeksi Jabatan Posisi": "staff",
+      "Proyeksi Penempatan Jabatan": "madiun",
+      "Level Jabatan Existing": "staff",
+      "Jabatan Posisi Existing": "staff",
+      "Penempatan Jabatan Existing": "madiun"
+    }
+  ],
+  "Ketelitian": [
+    {
+      "id": 1,
+      "pernyataan1": "6 Februari",
+      "pernyataan2": "6 Pebruari"
+    },
+    {
+      "id": 2,
+      "pernyataan1": 1000000,
+      "pernyataan2": "Rp. 1.000.000"
+    },
+    {
+      "id": 3,
+      "pernyataan1": 656566,
+      "pernyataan2": 656566
+    },
+    {
+      "id": 4,
+      "pernyataan1": "FRAWTX",
+      "pernyataan2": "FRAWXR"
+    },
+    {
+      "id": 5,
+      "pernyataan1": 121212,
+      "pernyataan2": 121212
+    },
+    {
+      "id": 6,
+      "pernyataan1": 71070,
+      "pernyataan2": 71007
+    },
+    {
+      "id": 7,
+      "pernyataan1": "kokokokok",
+      "pernyataan2": "kokokokok"
+    },
+    {
+      "id": 8,
+      "pernyataan1": "ISER",
+      "pernyataan2": "IESR"
+    },
+    {
+      "id": 9,
+      "pernyataan1": "TMSNW",
+      "pernyataan2": "TMSNW"
+    },
+    {
+      "id": 10,
+      "pernyataan1": "aquarius",
+      "pernyataan2": "aquaries"
+    },
+    {
+      "id": 11,
+      "pernyataan1": 700212088,
+      "pernyataan2": 700212088
+    },
+    {
+      "id": 12,
+      "pernyataan1": 321123,
+      "pernyataan2": 321223
+    },
+    {
+      "id": 13,
+      "pernyataan1": "Three Person",
+      "pernyataan2": "Tree Person"
+    },
+    {
+      "id": 14,
+      "pernyataan1": " TFWDE",
+      "pernyataan2": "TFWDE"
+    },
+    {
+      "id": 15,
+      "pernyataan1": "UNLRE",
+      "pernyataan2": "UNRLE"
+    },
+    {
+      "id": 16,
+      "pernyataan1": 6869696,
+      "pernyataan2": 6869696
+    },
+    {
+      "id": 17,
+      "pernyataan1": "bkjskhsaksaj",
+      "pernyataan2": "bkjskhsaksaj"
+    },
+    {
+      "id": 18,
+      "pernyataan1": "I love you",
+      "pernyataan2": " I live you"
+    },
+    {
+      "id": 19,
+      "pernyataan1": "Suhandoyo",
+      "pernyataan2": "Suhandoyo"
+    },
+    {
+      "id": 20,
+      "pernyataan1": " MCRSFT",
+      "pernyataan2": "MCRSFT"
+    },
+    {
+      "id": 21,
+      "pernyataan1": "Indonesia",
+      "pernyataan2": "Indonesian"
+    },
+    {
+      "id": 22,
+      "pernyataan1": "Singo Group",
+      "pernyataan2": "Singo Grup"
+    },
+    {
+      "id": 23,
+      "pernyataan1": "HPPHPH",
+      "pernyataan2": "HPHPHP"
+    },
+    {
+      "id": 24,
+      "pernyataan1": "Sri Handayani",
+      "pernyataan2": "Sri Handayani"
+    },
+    {
+      "id": 25,
+      "pernyataan1": " Supiani",
+      "pernyataan2": "Supiani"
+    },
+    {
+      "id": 26,
+      "pernyataan1": 636363,
+      "pernyataan2": 363636
+    },
+    {
+      "id": 27,
+      "pernyataan1": "Yayuk, Ayu",
+      "pernyataan2": "Yayuk, Ayu"
+    },
+    {
+      "id": 28,
+      "pernyataan1": "GESIZT",
+      "pernyataan2": "GESIZT"
+    },
+    {
+      "id": 29,
+      "pernyataan1": "BGRET",
+      "pernyataan2": "BRETG"
+    },
+    {
+      "id": 30,
+      "pernyataan1": "GROSS",
+      "pernyataan2": "GROSS"
+    },
+    {
+      "id": 31,
+      "pernyataan1": "FEVIFT",
+      "pernyataan2": " FIVEFT"
+    },
+    {
+      "id": 32,
+      "pernyataan1": 656654,
+      "pernyataan2": 656654
+    },
+    {
+      "id": 33,
+      "pernyataan1": "sepeda motor ",
+      "pernyataan2": "speda motor"
+    },
+    {
+      "id": 34,
+      "pernyataan1": "Rudi Hariyanto",
+      "pernyataan2": "Rudi Heriyanto"
+    },
+    {
+      "id": 35,
+      "pernyataan1": "Sedekah",
+      "pernyataan2": "Sodakoh"
+    },
+    {
+      "id": 36,
+      "pernyataan1": 4441441,
+      "pernyataan2": 4441441
+    },
+    {
+      "id": 37,
+      "pernyataan1": 6547,
+      "pernyataan2": 6547
+    },
+    {
+      "id": 38,
+      "pernyataan1": 1972,
+      "pernyataan2": 1972
+    },
+    {
+      "id": 39,
+      "pernyataan1": " Arie Nugraha",
+      "pernyataan2": "Ari Nugraha"
+    },
+    {
+      "id": 40,
+      "pernyataan1": 322223,
+      "pernyataan2": 322323
+    },
+    {
+      "id": 41,
+      "pernyataan1": "ggkarir dan ggiklan",
+      "pernyataan2": "gkarir dan giklan"
+    },
+    {
+      "id": 42,
+      "pernyataan1": 46555,
+      "pernyataan2": 46555
+    },
+    {
+      "id": 43,
+      "pernyataan1": "Asep Feri Setiawan",
+      "pernyataan2": "Asep Feri Setiawan"
+    },
+    {
+      "id": 44,
+      "pernyataan1": "OKIES",
+      "pernyataan2": "OKIES"
+    },
+    {
+      "id": 45,
+      "pernyataan1": "PQRSTSPNABSAJ",
+      "pernyataan2": "PQRSTSPANBSAJ"
+    },
+    {
+      "id": 46,
+      "pernyataan1": 2597,
+      "pernyataan2": 2975
+    },
+    {
+      "id": 47,
+      "pernyataan1": "cangkok.com &amp; co.id",
+      "pernyataan2": "cangkok.com &amp; co.id"
+    },
+    {
+      "id": 48,
+      "pernyataan1": "OTTTY",
+      "pernyataan2": "OTTYY"
+    },
+    {
+      "id": 49,
+      "pernyataan1": "Nana Suntana",
+      "pernyataan2": "Nana Suntana"
+    },
+    {
+      "id": 50,
+      "pernyataan1": "pekerjaan",
+      "pernyataan2": "pekerjan"
+    },
+    {
+      "id": 51,
+      "pernyataan1": 1771,
+      "pernyataan2": 1717
+    },
+    {
+      "id": 52,
+      "pernyataan1": 358899,
+      "pernyataan2": 358899
+    },
+    {
+      "id": 53,
+      "pernyataan1": "bursa karir",
+      "pernyataan2": "buras karir"
+    },
+    {
+      "id": 54,
+      "pernyataan1": "Lokasinya diatas",
+      "pernyataan2": "Lokasinya diatas"
+    },
+    {
+      "id": 55,
+      "pernyataan1": 987456,
+      "pernyataan2": 987456
+    },
+    {
+      "id": 56,
+      "pernyataan1": "Indriatmi Sumawati",
+      "pernyataan2": "Indriatmi Suwamati"
+    },
+    {
+      "id": 57,
+      "pernyataan1": "FIFFIFT",
+      "pernyataan2": "FIFFIFT"
+    },
+    {
+      "id": 58,
+      "pernyataan1": " BITAL",
+      "pernyataan2": " IBTAL"
+    },
+    {
+      "id": 59,
+      "pernyataan1": "HARTX",
+      "pernyataan2": "HARTX"
+    },
+    {
+      "id": 60,
+      "pernyataan1": "MLTHTST",
+      "pernyataan2": "MLTHSTS"
+    },
+    {
+      "id": 61,
+      "pernyataan1": 100110,
+      "pernyataan2": 100100
+    },
+    {
+      "id": 62,
+      "pernyataan1": 2553,
+      "pernyataan2": 2553
+    },
+    {
+      "id": 63,
+      "pernyataan1": "Priyambodo",
+      "pernyataan2": "Priambodo"
+    },
+    {
+      "id": 64,
+      "pernyataan1": 6565,
+      "pernyataan2": 5656
+    },
+    {
+      "id": 65,
+      "pernyataan1": 8168118,
+      "pernyataan2": 8168118
+    },
+    {
+      "id": 66,
+      "pernyataan1": "920!*74410!*.*01",
+      "pernyataan2": "920!*74410!*.*01"
+    },
+    {
+      "id": 67,
+      "pernyataan1": 1998,
+      "pernyataan2": 1998
+    },
+    {
+      "id": 68,
+      "pernyataan1": "ATTIT",
+      "pernyataan2": "ATTTI"
+    },
+    {
+      "id": 69,
+      "pernyataan1": "Catur Lukito",
+      "pernyataan2": "Catur Lukito"
+    },
+    {
+      "id": 70,
+      "pernyataan1": "MGRAR",
+      "pernyataan2": " MGTAR"
+    },
+    {
+      "id": 71,
+      "pernyataan1": "UTASU",
+      "pernyataan2": "UTASU"
+    },
+    {
+      "id": 72,
+      "pernyataan1": "SKART",
+      "pernyataan2": "SKERT"
+    },
+    {
+      "id": 73,
+      "pernyataan1": 4852,
+      "pernyataan2": 4582
+    },
+    {
+      "id": 74,
+      "pernyataan1": "AYPQS",
+      "pernyataan2": "AYPQS"
+    },
+    {
+      "id": 75,
+      "pernyataan1": "Wiwiek Rachmiwiyati",
+      "pernyataan2": "Wiwiek Rahmiwiyati"
+    },
+    {
+      "id": 76,
+      "pernyataan1": 69965545485040,
+      "pernyataan2": 69965545485040
+    },
+    {
+      "id": 77,
+      "pernyataan1": "P.O. BOX. 7789 JKT",
+      "pernyataan2": "P.O. BOX. 77899 JKT"
+    },
+    {
+      "id": 78,
+      "pernyataan1": "Indonesiaku",
+      "pernyataan2": "Indonesiaku"
+    },
+    {
+      "id": 79,
+      "pernyataan1": 1968118,
+      "pernyataan2": 1968118
+    },
+    {
+      "id": 80,
+      "pernyataan1": "hemat &amp; mudah",
+      "pernyataan2": "hemat &amp; mudah"
+    },
+    {
+      "id": 81,
+      "pernyataan1": "H2O+CO2+H2C2",
+      "pernyataan2": "H2O+CO2+H2-C2"
+    },
+    {
+      "id": 82,
+      "pernyataan1": "66+9-86+634-834+76",
+      "pernyataan2": "66+9-86+634-834+76"
+    },
+    {
+      "id": 83,
+      "pernyataan1": "Suhendarwijayakusumo",
+      "pernyataan2": "Suhendarmijayakusuwo"
+    },
+    {
+      "id": 84,
+      "pernyataan1": "1212121212121&nbsp;",
+      "pernyataan2": 12121212121
+    },
+    {
+      "id": 85,
+      "pernyataan1": "Yana Wirdayati",
+      "pernyataan2": "Yana Wirdayati"
+    },
+    {
+      "id": 86,
+      "pernyataan1": "PT. Gilland Ganesha",
+      "pernyataan2": "P.T. Gilland Ganesha"
+    },
+    {
+      "id": 87,
+      "pernyataan1": "Kewarganegaraan",
+      "pernyataan2": "Kewargaannegara"
+    },
+    {
+      "id": 88,
+      "pernyataan1": "Jatmiko Haryono",
+      "pernyataan2": "Jatmiko Hariono"
+    },
+    {
+      "id": 89,
+      "pernyataan1": "4295454&nbsp;",
+      "pernyataan2": 4295454
+    },
+    {
+      "id": 90,
+      "pernyataan1": "MCRSW",
+      "pernyataan2": "MCRWS"
+    },
+    {
+      "id": 91,
+      "pernyataan1": "Mita Sutjiowati&nbsp;",
+      "pernyataan2": "Mita Sutjiwati"
+    },
+    {
+      "id": 92,
+      "pernyataan1": "MCRSW",
+      "pernyataan2": "MCRWS"
+    },
+    {
+      "id": 93,
+      "pernyataan1": "Managemen",
+      "pernyataan2": "Manajemen"
+    },
+    {
+      "id": 94,
+      "pernyataan1": "Benny Indrakusumah",
+      "pernyataan2": "Benny Indrakusuma"
+    },
+    {
+      "id": 95,
+      "pernyataan1": "421.+-,744.*-071.",
+      "pernyataan2": "421.+-,744.*-071"
+    },
+    {
+      "id": 96,
+      "pernyataan1": "Engineering&nbsp;",
+      "pernyataan2": "Enginering"
+    },
+    {
+      "id": 97,
+      "pernyataan1": "Lowongan",
+      "pernyataan2": "Lowomgan"
+    },
+    {
+      "id": 98,
+      "pernyataan1": "421001099178338",
+      "pernyataan2": "421001099718338"
+    },
+    {
+      "id": 99,
+      "pernyataan1": "Hendro Tjahyono",
+      "pernyataan2": "Hendro Tjahjono"
+    },
+    {
+      "id": 100,
+      "pernyataan1": "C77DB6FGH58KL",
+      "pernyataan2": "C77DB6FGH58KL"
+    }
+  ]
+}

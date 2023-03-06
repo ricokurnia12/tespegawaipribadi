@@ -1,11 +1,11 @@
 import React from "react";
 import LogoGo from "'../Assets/logoGo.svg";
 import { NavLink } from "react-router-dom";
-// import { useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { ADMIN_LOGOUT } from "../Redux/Constanst";
 import axios from "axios";
-// import Directory from "../baseDirectory";
-// import url from "../baseUrl";
+import Directory from "../baseDirectory";
+import url from "../baseUrl";
 import "./NavbarAdmin.css";
 
 const NavbarAdmin = () => {

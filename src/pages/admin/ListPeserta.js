@@ -12,11 +12,13 @@ import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
+import { NavbarUser } from '../../Components/Navbar/navbar-user';
+import './ListPeserta.css';
 
 const ListPeserta = (props) => {
   const [data, setData] = useState([]);
   useEffect(() => {
-    fetch('http://localhost:5001/datakaryawan')
+    fetch('http://localhost:5000/datakaryawan')
       .then((resp) => resp.json())
       .then((resp) => {
         console.log(resp);
@@ -26,39 +28,50 @@ const ListPeserta = (props) => {
 
   const columns = [
     {
-      name: 'Id',
+      name: 'id',
       label: 'Nomor',
     },
     {
-      name: 'Nama',
+      name: 'nama',
       label: 'Nama',
+      align: 'right',
     },
     {
-      name: 'NIK',
+      name: 'nik',
+      label: 'NIK',
     },
     {
-      name: 'No. Handphone',
+      name: 'handphone',
+      label: 'No. Handphone',
     },
     {
-      name: 'Alamat Email',
+      name: 'email',
+      label: 'Email',
     },
     {
-      name: 'Proyeksi Level Jabatan',
+      align: 'left',
+      name: 'proyeksi level jabatan',
+      label: ' Proyeksi Level Jabatan',
     },
     {
       name: 'Proyeksi Jabatan Posisi',
+      label: 'Proyeksi Jabatan Posisi',
     },
     {
       name: 'Proyeksi Penempatan Jabatan',
+      label: 'Proyeksi Penempatan Jabatan',
     },
     {
       name: 'Level Jabatan Existing',
+      label: 'Level Jabatan Existing',
     },
     {
       name: 'Jabatan Posisi Existing',
+      label: 'Jabatan Posisi Existing',
     },
     {
       name: 'Penempatan Jabatan Existing',
+      label: 'Penempatan Jabatan Existing',
     },
   ];
 
@@ -90,23 +103,6 @@ const ListPeserta = (props) => {
       <button>Kirim email</button>
     ),
   ];
-  // const UseStyles = makeStyles((theme) => ({
-  //   tableContainer: {
-  //     background: '#ccffff',
-  //     borderWidth: 2,
-  //     borderColor: 'black',
-  //     borderStyle: 'solid',
-  //   },
-  //   tableCell: {
-  //     borderRightStyle: 'solid',
-  //     borderRightColor: 'black',
-  //   },
-  //   tableHead: {
-  //     borderBottomStyle: 'solid',
-  //     borderBottomColor: 'blue',
-  //     borderBottomWidth: 3,
-  //   },
-  // }));
 
   const options = {
     filter: true,
@@ -115,12 +111,11 @@ const ListPeserta = (props) => {
     },
     selectableRows: 'single',
     filterType: 'dropdown',
-    responsive: 'scrollMaxHeight',
+    responsive: 'scroll',
     rowsPerPage: 10,
     expandableRows: true,
     renderExpandableRow: (rowData, rowMeta) => {
       console.log(rowData, rowMeta);
-      // const classes = UseStyles();
       return (
         <React.Fragment>
           <tr>
@@ -178,12 +173,19 @@ const ListPeserta = (props) => {
   };
 
   return (
-    <MUIDataTable
-      title={'ACME Employee list'}
-      data={data}
-      columns={columns}
-      options={options}
-    />
+    <>
+      <NavbarUser />
+
+      <div className="tabel-wrapper">
+        <MUIDataTable
+          title={'ACME Employee list'}
+          data={data}
+          columns={columns}
+          options={options}
+          className="tabelpeserta"
+        />
+      </div>
+    </>
   );
 };
 

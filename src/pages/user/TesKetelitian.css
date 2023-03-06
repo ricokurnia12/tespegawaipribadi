@@ -1,0 +1,16 @@
+@media screen and (max-width: 320px) {
+  .soal-ketelitian {
+    font-size: small;
+  }
+}
+
+.soal-ketelitian {
+  font-size: x-large;
+}
+
+.tes-ketelitian-wrapper {
+  max-width: 1100px;
+  box-shadow: -2px 3px 15px -5px rgba(0, 0, 0, 0.84);
+  -webkit-box-shadow: -2px 3px 15px -5px rgba(0, 0, 0, 0.84);
+  -moz-box-shadow: -2px 3px 15px -5px rgba(0, 0, 0, 0.84);
+}

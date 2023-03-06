@@ -1,0 +1,70 @@
+.kotak-soal {
+  border: 1px solid rgb(172, 172, 172);
+
+  /* box-sizing: border-box; */
+}
+
+.panel-soal {
+  /* min-width: 236px; */
+  position: relative;
+  max-width: 834px;
+  margin: auto;
+  /* max-height: 300px; */
+  /* padding: 10px; */
+}
+.nomor-soal.terisi {
+  background-color: #00fb6a;
+  /* color: #fff; */
+}
+
+.petunjuk-nomor-soal.terisi {
+}
+
+.bg-red {
+  background-color: #e53f53;
+}
+
+.nomor-soal {
+  height: 35px;
+  width: 35px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border: 0.5px solid #989393;
+}
+
+.nomor-soal.kosong {
+  background-color: #e0e0e0;
+  color: #242424;
+}
+
+.container-soal {
+  background: #fdfdfd;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+    0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.gambar-jawaban {
+  max-width: 80px;
+}
+.controlpanel {
+  display: none;
+}
+.buttoncontrolpanel {
+  display: none;
+}
+
+/* RESPONSIVE MOBILE */
+@media only screen and (max-width: 767px) {
+  .panel-soal {
+    max-width: none;
+    position: relative;
+    max-height: fit-content;
+    /* padding: 10px; */
+  }
+  .buttoncontrolpanel {
+    display: block;
+  }
+  .controlpanel {
+    display: flex;
+  }
+}
