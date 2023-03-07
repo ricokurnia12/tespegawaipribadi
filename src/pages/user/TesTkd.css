@@ -103,6 +103,7 @@
     /* padding: 10px; */
   }
   .buttoncontrolpanel {
+    cursor: pointer;
     display: block;
     transition: 2s;
   }

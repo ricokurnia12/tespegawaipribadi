@@ -914,6 +914,9 @@ const TesTkd = () => {
                             key={optionIndex}
                           >
                             <input
+                              style={{
+                                cursor: 'pointer',
+                              }}
                               type="radio"
                               id={`option-${optionIndex}`}
                               name={`jawaban-${currentQuestion}`}
@@ -927,6 +930,9 @@ const TesTkd = () => {
                               onChange={handleJawabanChange}
                             />
                             <label
+                              style={{
+                                cursor: 'pointer',
+                              }}
                               className="ms-2 mb-4 text-wrap text-break"
                               htmlFor={`option-${optionIndex}`}
                             >

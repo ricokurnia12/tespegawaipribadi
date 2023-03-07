@@ -552,13 +552,19 @@ const TesKetelitian = () => {
           <div className=" text-center mt-4">
             <div>
               <h1>TES KETELITIAN</h1>
-            </div>
-            <div>
+            </div >
+            <div style={{
+              marginBottom:'100px'
+            }}>
               <b>Petunjuk</b>
-              <br></br> Bandingkan susunan huruf/angka/kata pada
-              pernyataan 1 dan pernyataan 2. Kemudian, Isilah kolom
-              sama apabila susunan huruf/angka/kata yang di depan
-              SAMA, dan isilah kolom tidak apabila TIDAK SAMA
+              <br></br>
+              <p>
+                {' '}
+                Bandingkan susunan huruf/angka/kata pada pernyataan 1
+                dan pernyataan 2. Kemudian, Isilah kolom sama apabila
+                susunan huruf/angka/kata yang di depan SAMA, dan
+                isilah kolom tidak apabila TIDAK SAMA
+              </p>
             </div>
           </div>
 
