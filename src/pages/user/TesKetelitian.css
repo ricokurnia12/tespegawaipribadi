@@ -14,3 +14,40 @@
   -webkit-box-shadow: -2px 3px 15px -5px rgba(0, 0, 0, 0.84);
   -moz-box-shadow: -2px 3px 15px -5px rgba(0, 0, 0, 0.84);
 }
+.pernyataan2 {
+  margin-top: -10;
+  word-wrap: break-word;
+  /* word-break: break-all; */
+}
+
+.form-check-ketelitian {
+  margin-left: -10px;
+}
+
+.form-check-ketelitian label {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background-color: #eee;
+  width: 100%;
+  margin-left: -10;
+}
+
+.form-check-ketelitian label:hover {
+  background-color: #83ffb7;
+  opacity: 0.5;
+}
+
+.form-check-ketelitian label:hover {
+  cursor: pointer;
+}
+
+.form-check-ketelitian input[type='radio']:checked + label {
+  background-color: #2ecc71;
+  color: #fff;
+}
+
+.form-check-ketelitian input[type='radio'] {
+  display: none;
+}
